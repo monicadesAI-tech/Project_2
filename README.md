@@ -1,2 +1,2 @@
 # Project_2
-Refer to 2)GUI_SmartVoice_Scientific Calculator for README Description.
+Refer to 2)GUI_SmartVoice_Scientific Calculator.pdf for README Description.
